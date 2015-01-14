@@ -2,7 +2,7 @@
 Example code for creating a simple salesforce endpoint in rails aka Soap Server.
 
 # Summary
-There are a lot of examples of salesforce SOAP clients but you need an SOAP Server
+There are a lot of examples of Ruby/RAILS salesforce SOAP clients but you need an SOAP Server
 to handle Salesforce Outbound messages.
 
 This is a very simple server that can handle these soap messages.
